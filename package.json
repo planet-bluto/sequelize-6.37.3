@@ -4,10 +4,10 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sequelize/sequelize.git"
+    "url": "https://github.com/planet-bluto/sequelize.git"
   },
   "bugs": {
-    "url": "https://github.com/sequelize/sequelize/issues"
+    "url": "https://github.com/planet-bluto/sequelize/issues"
   },
   "homepage": "https://sequelize.org/",
   "main": "./lib/index.js",
